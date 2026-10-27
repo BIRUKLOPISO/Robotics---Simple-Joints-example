@@ -1,3 +1,4 @@
+![Simulation Preview](preview.png)
 # CoppeliaSim Joint Movements Demo
 
 This is a simple robotics simulation project created in **CoppeliaSim**. 
