@@ -1,5 +1,5 @@
-![Joint Movements 1](Joints%201.png)
-![Joint Movements 2](Joints%202.png)
+![Joint Movements 1](Joints%201)
+![Joint Movements 2](Joints%202)
 # CoppeliaSim Joint Movements Demo
 
 This is a simple robotics simulation project created in **CoppeliaSim**. 
